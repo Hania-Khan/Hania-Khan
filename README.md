@@ -17,15 +17,6 @@ Hey there, I'm **Hania** 👋, your digital craftsman hailing from the scenic la
 Languages and Tools:
 android android azure bootstrap c cplusplus css3 dart docker express firebase flutter git graphql javascript linux mongodb mysql nodejs oracle react tailwind typescript
 
-Contribution Streak
-
-Time spent on different languages in past 7 days:
-JavaScript   8 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   35.40 %
-Python       7 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   33.10 %
-Dart         3 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-HTML         1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-Markdown     26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-
 <!---
 Hania-Khan/Hania-Khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
