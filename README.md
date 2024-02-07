@@ -6,7 +6,7 @@ Hey there, I'm **Hania** 👋, your digital craftswoman hailing from the scenic 
 - 👀 I’m interested in Software Development, Web and Mob full Stack Development and Machie Learning 
 - 🌱 I’m currently studying Software Engineering 
 - 💞️ I’m looking to collaborate on technical projects 
-- 📫 How to reach me haniak023@gmail.com
+- 📫 How to reach me 
 
 🌐 **Navigate Through My Digital Footprint**:
 - 📖 [Dive into My Thoughtful Blog](#haniak023)
