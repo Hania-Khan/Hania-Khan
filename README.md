@@ -1,9 +1,9 @@
 # 🚀 Welcome to Hania's Universe! 🌌
 
-Hey there, I'm **Hania** 👋, your digital craftswoman hailing from the scenic landscapes of Pakistan. Dive into my digital realm and discover the wonders I've woven with code!
+Hey there, I'm **Hania** 👋, your digital craftswoman. Dive into my digital realm and discover the wonders I've woven with code!
 
 - 👋 Hi, I’m @Hania-Khan
-- 👀 I’m interested in Software Development, Web and Mob full Stack Development and Machie Learning 
+- 👀 I’m interested in Software Development, Web-Mob full Stack Development and Machie Learning 
 - 🌱 I’m currently studying Software Engineering 
 - 💞️ I’m looking to collaborate on technical projects 
 - 📫 How to reach me 
