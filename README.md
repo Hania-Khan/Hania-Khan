@@ -1,5 +1,3 @@
-# 🚀 Welcome to Hania's Universe! 🌌
-
 Hey there, I'm **Hania** 👋, your digital craftswoman. Dive into my digital realm and discover the wonders I've woven with code!
 
 - 👋 Hi, I’m @Hania-Khan
